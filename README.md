@@ -1,17 +1,3 @@
-- 👋 Hi, I’m Prabhakar
-- 👀 I’m interested in Full stack Development on Java
-- 🌱 I’m currently going through Docker, React and Python...
-- 💞️ I’m looking to collaborate on Developer COmmunities, Social Active dev ...
-- 📫 How to reach me mail: prabhakarnaik225@gmail.com...
-- <a href="https://prabhakar-profile.vercel.app/"> Go through my portfolio</a>
-- 😄 Pronouns: Prabhakar...
-- ⚡ Fun fact: someone saying java is going to die. then reply you are so Beautiful..
-
-<!---
-Prabhakar-Naik/Prabhakar-Naik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Prabhakar Naik
 ======================================================================================================================================
 
@@ -21,11 +7,14 @@ Java Backend and Web Developer.
 I've been learning to code for 2 years in java backend technology. I started with HTML, CSS but have Really found a passion for frontend development.
 
 * 🌍  I'm based in Hyderabad.
+* 👀 I’m interested in Full stack Development on Java
 * 🖥️  See my portfolio at [Prabhakak portfolio](http://prabhakar-profile.vercel.app/)
 * ✉️  You can contact me at [prabhakarnaik225@gmail.com](mailto:prabhakarnaik225@gmail.com)
 * 🚀  I'm currently working on [MyApp](http://prabhakar-profile.vercel.app/)
 * 🧠  I'm learning DevOps AWS, Docker, Kafka, supabase db and ReactJs.
+* 🌱 I’m currently going through Docker, React and Python...
 * 🤝  I'm open to collaborating on Security base, ecommerce, challenging ecosystem building using tech.
+* 😄 Pronouns: Prabhakar...
 * ⚡  I'm secretly learning life.... but don't know about anything.
 
 <a href="https://www.github.com/Prabhakar-Naik" target="_blank" rel="noreferrer"><img
