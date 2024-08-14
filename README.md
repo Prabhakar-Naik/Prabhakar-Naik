@@ -63,3 +63,7 @@ src="https://img.shields.io/twitter/follow/LakshmiRam Prabhakar?logo=twitter&sty
 <br /><br /><br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/Prabhakar-Naik/axon-cqrs-event-driver-ddd-example" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Prabhakar-Naik&repo=axon-cqrs-event-driver-ddd-example&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/Prabhakar-Naik/my-portfolio" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Prabhakar-Naik&repo=my-portfolio&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&locale=en" /></a></div>
+
+<br /><br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/Prabhakar-Naik/javascript-core" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Prabhakar-Naik&repo=javascript-core&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/Prabhakar-Naik/javascript-core" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Prabhakar-Naik&repo=javascript-core&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&locale=en" /></a></div>
