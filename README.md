@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Java Backend and Web Developer.
 -------------------------------
 
-I've been learning to code for 2 years in java backend technology. I started with HTML, CSS but have Really found a passion for frontend development.
+I've been learning to code for 2.5 years in java backend technology. I started with HTML, CSS but have Really found a passion for frontend development.
 
 * 🌍  I'm based in Hyderabad.
 * 👀 I’m interested in Full stack Development on Java
