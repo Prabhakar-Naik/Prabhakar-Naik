@@ -10,7 +10,7 @@ I've been learning to code for 2.5 years in java backend technology. I started w
 * 👀 I’m interested in Full stack Development on Java
 * 🖥️  See my portfolio at [Prabhakak portfolio](http://prabhakar-profile.vercel.app/)
 * ✉️  You can contact me at [prabhakarnaik225@gmail.com](mailto:prabhakarnaik225@gmail.com)
-* 🚀  I'm currently working on [MyApp](http://prabhakar-profile.vercel.app/)
+* 🚀  I'm currently working on [MyApp](https://prabhakar-profile.vercel.app//)
 * 🧠  I'm learning DevOps AWS, Docker, Kafka, supabase db and ReactJs.
 * 🌱 I’m currently going through Docker, React and Python...
 * 🤝  I'm open to collaborating on Security base, ecommerce, challenging ecosystem building using tech.
